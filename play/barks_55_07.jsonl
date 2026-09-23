@@ -508,3 +508,6 @@
 {"n":508,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south yard. Ivo keeps the rope for the start. 4 steps, arc on the left lane, open."}
 {"n":509,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The rope stays for the start."}
 {"n":510,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at High line. Nobody past the south yard. We start in 6 steps. Arc on the left lane, open."}
+{"n":511,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line south yard. Bess keeps the rope for the start. 7 steps, arc on the left lane, open."}
+{"n":512,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The rope stays for the start."}
+{"n":513,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Ward gate. Nobody past the south yard. We start in 2 steps. Arc on the left lane, open."}
