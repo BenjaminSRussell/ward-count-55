@@ -294,3 +294,6 @@
 {"n":294,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north yard. arc left open. 8 steps. The radio coil stays for the start."}
 {"n":295,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Clinic roof. Nobody past the north yard. We start in 2 steps. Arc on the left lane, open."}
 {"n":296,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof north yard. Ivo keeps the radio coil for the start. 3 steps, arc on the left lane, open."}
+{"n":297,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north yard. arc left open. 4 steps. The radio coil stays for the start."}
+{"n":298,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Clinic roof. Nobody past the north yard. We start in 5 steps. Arc on the left lane, open."}
+{"n":299,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof north yard. Bess keeps the radio coil for the start. 6 steps, arc on the left lane, open."}
