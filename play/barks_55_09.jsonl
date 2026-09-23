@@ -887,3 +887,6 @@
 {"n":887,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley west court. Bess keeps the drum for the start. 3 steps, arc on the left lane, open."}
 {"n":888,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west court. arc left open. 4 steps. The drum stays for the start."}
 {"n":889,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the Lot. Nobody past the west court. We start in 5 steps. Arc on the left lane, open."}
+{"n":890,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot west court. Matt keeps the drum for the start. 6 steps, arc on the left lane, open."}
+{"n":891,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west court. arc left open. 7 steps. The drum stays for the start."}
+{"n":892,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at the Lot. Nobody past the west court. We start in 8 steps. Arc on the left lane, open."}
