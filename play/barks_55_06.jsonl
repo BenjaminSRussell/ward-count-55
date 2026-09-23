@@ -980,3 +980,6 @@
 {"n":980,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard south yard. Ivo keeps the crate for the start. 8 steps, arc on the left lane, open."}
 {"n":981,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south yard. arc left open. 2 steps. The crate stays for the start."}
 {"n":982,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Switchyard. Nobody past the south yard. We start in 3 steps. Arc on the left lane, open."}
+{"n":983,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south yard. Bess keeps the crate for the start. 4 steps, arc on the left lane, open."}
+{"n":984,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south yard. arc left open. 5 steps. The crate stays for the start."}
+{"n":985,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Drydock. Nobody past the south yard. We start in 6 steps. Arc on the left lane, open."}
