@@ -101,3 +101,6 @@
 {"n":101,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard west court. Nia keeps the lamp for the start. 8 steps, arc on the left lane, open."}
 {"n":102,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west court. arc left open. 2 steps. The lamp stays for the start."}
 {"n":103,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Mast yard. Nobody past the west court. We start in 3 steps. Arc on the left lane, open."}
+{"n":104,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard west court. Ivo keeps the lamp for the start. 4 steps, arc on the left lane, open."}
+{"n":105,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west court. arc left open. 5 steps. The lamp stays for the start."}
+{"n":106,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mast yard. Nobody past the west court. We start in 6 steps. Arc on the left lane, open."}
