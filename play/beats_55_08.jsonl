@@ -287,3 +287,6 @@
 {"n":287,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at South stair. Nobody past the south yard. We start in 6 steps. Arc on the left lane, open."}
 {"n":288,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south yard. Ivo keeps the radio coil for the start. 7 steps, arc on the left lane, open."}
 {"n":289,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south yard. arc left open. 8 steps. The radio coil stays for the start."}
+{"n":290,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at South stair. Nobody past the south yard. We start in 2 steps. Arc on the left lane, open."}
+{"n":291,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair south yard. Bess keeps the radio coil for the start. 3 steps, arc on the left lane, open."}
+{"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south yard. arc left open. 4 steps. The radio coil stays for the start."}
