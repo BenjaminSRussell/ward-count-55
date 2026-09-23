@@ -392,3 +392,6 @@
 {"n":392,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the west court. We start in 6 steps. Arc on the left lane, open."}
 {"n":393,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence west court. Nia keeps the plywood for the start. 7 steps, arc on the left lane, open."}
 {"n":394,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west court. arc left open. 8 steps. The plywood stays for the start."}
+{"n":395,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Stockyard fence. Nobody past the west court. We start in 2 steps. Arc on the left lane, open."}
+{"n":396,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence west court. Ivo keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west court. arc left open. 4 steps. The plywood stays for the start."}
