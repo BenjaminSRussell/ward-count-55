@@ -692,3 +692,6 @@
 {"n":692,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line west court. Ivo keeps the shutter for the start. 4 steps, arc on the left lane, open."}
 {"n":693,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west court. arc left open. 5 steps. The shutter stays for the start."}
 {"n":694,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at High line. Nobody past the west court. We start in 6 steps. Arc on the left lane, open."}
+{"n":695,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line west court. Bess keeps the shutter for the start. 7 steps, arc on the left lane, open."}
+{"n":696,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west court. arc left open. 8 steps. The shutter stays for the start."}
+{"n":697,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Ward gate. Nobody past the west court. We start in 2 steps. Arc on the left lane, open."}
