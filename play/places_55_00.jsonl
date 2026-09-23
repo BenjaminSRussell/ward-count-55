@@ -18,3 +18,6 @@
 {"n":18,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south slip. arc left open. 4 steps. The badge door stays for the start."}
 {"n":19,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at the Underpass. Nobody past the south slip. We start in 5 steps. Arc on the left lane, open."}
 {"n":20,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south slip. Ivo keeps the badge door for the start. 6 steps, arc on the left lane, open."}
+{"n":21,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south slip. arc left open. 7 steps. The badge door stays for the start."}
+{"n":22,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at the Underpass. Nobody past the south slip. We start in 8 steps. Arc on the left lane, open."}
+{"n":23,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass south slip. Bess keeps the badge door for the start. 2 steps, arc on the left lane, open."}
