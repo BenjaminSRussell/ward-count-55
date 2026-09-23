@@ -87,3 +87,6 @@
 {"n":87,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at South stair. Nobody past the east yard. We start in 6 steps. Arc on the left lane, open."}
 {"n":88,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair east yard. Ivo keeps the badge door for the start. 7 steps, arc on the left lane, open."}
 {"n":89,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east yard. arc left open. 8 steps. The badge door stays for the start."}
+{"n":90,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at South stair. Nobody past the east yard. We start in 2 steps. Arc on the left lane, open."}
+{"n":91,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair east yard. Bess keeps the badge door for the start. 3 steps, arc on the left lane, open."}
+{"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east yard. arc left open. 4 steps. The badge door stays for the start."}
