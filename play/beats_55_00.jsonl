@@ -979,3 +979,6 @@
 {"n":979,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Kessler alley. Nobody past the west yard. We start in 6 steps. Arc on the left lane, open."}
 {"n":980,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west yard. Ivo keeps the lamp for the start. 7 steps, arc on the left lane, open."}
 {"n":981,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west yard. arc left open. 8 steps. The lamp stays for the start."}
+{"n":982,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Kessler alley. Nobody past the west yard. We start in 2 steps. Arc on the left lane, open."}
+{"n":983,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west yard. Bess keeps the lamp for the start. 3 steps, arc on the left lane, open."}
+{"n":984,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west yard. arc left open. 4 steps. The lamp stays for the start."}
