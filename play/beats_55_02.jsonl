@@ -353,3 +353,6 @@
 {"n":353,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Mall court. Nobody past the east yard. We start in 8 steps. Arc on the left lane, open."}
 {"n":354,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court east yard. Matt keeps the plywood for the start. 2 steps, arc on the left lane, open."}
 {"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east yard. arc left open. 3 steps. The plywood stays for the start."}
+{"n":356,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Mall court. Nobody past the east yard. We start in 4 steps. Arc on the left lane, open."}
+{"n":357,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court east yard. Nia keeps the plywood for the start. 5 steps, arc on the left lane, open."}
+{"n":358,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east yard. arc left open. 6 steps. The plywood stays for the start."}
