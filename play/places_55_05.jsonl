@@ -73,3 +73,6 @@
 {"n":73,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north yard. arc left open. 5 steps. The lamp stays for the start."}
 {"n":74,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mast yard. Nobody past the north yard. We start in 6 steps. Arc on the left lane, open."}
 {"n":75,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard north yard. Bess keeps the lamp for the start. 7 steps, arc on the left lane, open."}
+{"n":76,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north yard. arc left open. 8 steps. The lamp stays for the start."}
+{"n":77,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Last Light. Nobody past the north yard. We start in 2 steps. Arc on the left lane, open."}
+{"n":78,"kind":"place","name":"Last Light north yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light north yard. Matt keeps the lamp for the start. 3 steps, arc on the left lane, open."}
