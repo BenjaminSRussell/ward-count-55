@@ -30,3 +30,6 @@
 {"n":30,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north yard. arc left open. 3 steps. The badge door stays for the start."}
 {"n":31,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at the Lot. Nobody past the north yard. We start in 4 steps. Arc on the left lane, open."}
 {"n":32,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot north yard. Ivo keeps the badge door for the start. 5 steps, arc on the left lane, open."}
+{"n":33,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north yard. arc left open. 6 steps. The badge door stays for the start."}
+{"n":34,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at the Lot. Nobody past the north yard. We start in 7 steps. Arc on the left lane, open."}
+{"n":35,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot north yard. Bess keeps the badge door for the start. 8 steps, arc on the left lane, open."}
