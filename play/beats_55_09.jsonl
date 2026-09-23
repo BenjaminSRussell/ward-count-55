@@ -82,3 +82,6 @@
 {"n":82,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mall court. Nobody past the west court. We start in 3 steps. Arc on the left lane, open."}
 {"n":83,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court west court. Bess keeps the lamp for the start. 4 steps, arc on the left lane, open."}
 {"n":84,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west court. arc left open. 5 steps. The lamp stays for the start."}
+{"n":85,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the Underpass. Nobody past the west court. We start in 6 steps. Arc on the left lane, open."}
+{"n":86,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass west court. Matt keeps the lamp for the start. 7 steps, arc on the left lane, open."}
+{"n":87,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west court. arc left open. 8 steps. The lamp stays for the start."}
