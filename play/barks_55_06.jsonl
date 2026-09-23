@@ -665,3 +665,6 @@
 {"n":665,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south yard. Nia keeps the hydrant for the start. 8 steps, arc on the left lane, open."}
 {"n":666,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. arc left open. 2 steps. The hydrant stays for the start."}
 {"n":667,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at High line. Nobody past the south yard. We start in 3 steps. Arc on the left lane, open."}
+{"n":668,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south yard. Ivo keeps the hydrant for the start. 4 steps, arc on the left lane, open."}
+{"n":669,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The hydrant stays for the start."}
+{"n":670,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at High line. Nobody past the south yard. We start in 6 steps. Arc on the left lane, open."}
