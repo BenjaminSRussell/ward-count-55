@@ -844,3 +844,6 @@
 {"n":844,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line south yard. Ivo keeps the awning for the start. 4 steps, arc on the left lane, open."}
 {"n":845,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The awning stays for the start."}
 {"n":846,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at High line. Nobody past the south yard. We start in 6 steps. Arc on the left lane, open."}
+{"n":847,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south yard. Bess keeps the awning for the start. 7 steps, arc on the left lane, open."}
+{"n":848,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The awning stays for the start."}
+{"n":849,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Ward gate. Nobody past the south yard. We start in 2 steps. Arc on the left lane, open."}
