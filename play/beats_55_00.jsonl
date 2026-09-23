@@ -928,3 +928,6 @@
 {"n":928,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Switchyard. Nobody past the west yard. We start in 4 steps. Arc on the left lane, open."}
 {"n":929,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard west yard. Nia keeps the crate for the start. 5 steps, arc on the left lane, open."}
 {"n":930,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west yard. arc left open. 6 steps. The crate stays for the start."}
+{"n":931,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Switchyard. Nobody past the west yard. We start in 7 steps. Arc on the left lane, open."}
+{"n":932,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard west yard. Ivo keeps the crate for the start. 8 steps, arc on the left lane, open."}
+{"n":933,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west yard. arc left open. 2 steps. The crate stays for the start."}
