@@ -752,3 +752,6 @@
 {"n":752,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the Underpass. Nobody past the west court. We start in 2 steps. Arc on the left lane, open."}
 {"n":753,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west court. Nia keeps the barrel for the start. 3 steps, arc on the left lane, open."}
 {"n":754,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west court. arc left open. 4 steps. The barrel stays for the start."}
+{"n":755,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at the Underpass. Nobody past the west court. We start in 5 steps. Arc on the left lane, open."}
+{"n":756,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west court. Ivo keeps the barrel for the start. 6 steps, arc on the left lane, open."}
+{"n":757,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west court. arc left open. 7 steps. The barrel stays for the start."}
