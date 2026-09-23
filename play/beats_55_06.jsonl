@@ -370,3 +370,6 @@
 {"n":370,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at the Lot. Nobody past the south yard. We start in 7 steps. Arc on the left lane, open."}
 {"n":371,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south yard. Bess keeps the plywood for the start. 8 steps, arc on the left lane, open."}
 {"n":372,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The plywood stays for the start."}
+{"n":373,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the south yard. We start in 3 steps. Arc on the left lane, open."}
+{"n":374,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence south yard. Matt keeps the plywood for the start. 4 steps, arc on the left lane, open."}
+{"n":375,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south yard. arc left open. 5 steps. The plywood stays for the start."}
