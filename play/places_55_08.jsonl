@@ -550,3 +550,6 @@
 {"n":550,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west court. arc left open. 3 steps. The hydrant stays for the start."}
 {"n":551,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at the Lot. Nobody past the west court. We start in 4 steps. Arc on the left lane, open."}
 {"n":552,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west court. Ivo keeps the hydrant for the start. 5 steps, arc on the left lane, open."}
+{"n":553,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. arc left open. 6 steps. The hydrant stays for the start."}
+{"n":554,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at the Lot. Nobody past the west court. We start in 7 steps. Arc on the left lane, open."}
+{"n":555,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west court. Bess keeps the hydrant for the start. 8 steps, arc on the left lane, open."}
