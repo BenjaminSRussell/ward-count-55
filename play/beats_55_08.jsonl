@@ -11,3 +11,6 @@
 {"n":11,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at High line. Nobody past the south yard. We start in 3 steps. Arc on the left lane, open."}
 {"n":12,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line south yard. Ivo keeps the drum for the start. 4 steps, arc on the left lane, open."}
 {"n":13,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The drum stays for the start."}
+{"n":14,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at High line. Nobody past the south yard. We start in 6 steps. Arc on the left lane, open."}
+{"n":15,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south yard. Bess keeps the drum for the start. 7 steps, arc on the left lane, open."}
+{"n":16,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The drum stays for the start."}
