@@ -985,3 +985,6 @@
 {"n":985,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west yard. Nia keeps the badge door for the start. 4 steps, arc on the left lane, open."}
 {"n":986,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west yard. arc left open. 5 steps. The badge door stays for the start."}
 {"n":987,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Kessler alley. Nobody past the west yard. We start in 6 steps. Arc on the left lane, open."}
+{"n":988,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west yard. Ivo keeps the badge door for the start. 7 steps, arc on the left lane, open."}
+{"n":989,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west yard. arc left open. 8 steps. The badge door stays for the start."}
+{"n":990,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Kessler alley. Nobody past the west yard. We start in 2 steps. Arc on the left lane, open."}
