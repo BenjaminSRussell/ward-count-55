@@ -785,3 +785,6 @@
 {"n":785,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north yard. arc left open. 4 steps. The barrel stays for the start."}
 {"n":786,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Clinic roof. Nobody past the north yard. We start in 5 steps. Arc on the left lane, open."}
 {"n":787,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north yard. Bess keeps the barrel for the start. 6 steps, arc on the left lane, open."}
+{"n":788,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north yard. arc left open. 7 steps. The barrel stays for the start."}
+{"n":789,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Switchyard. Nobody past the north yard. We start in 8 steps. Arc on the left lane, open."}
+{"n":790,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard north yard. Matt keeps the barrel for the start. 2 steps, arc on the left lane, open."}
