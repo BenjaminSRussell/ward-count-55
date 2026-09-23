@@ -350,3 +350,6 @@
 {"n":350,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at High line. Nobody past the south yard. We start in 6 steps. Arc on the left lane, open."}
 {"n":351,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line south yard. Bess keeps the radio coil for the start. 7 steps, arc on the left lane, open."}
 {"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The radio coil stays for the start."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Ward gate. Nobody past the west court. We start in 2 steps. Arc on the left lane, open."}
+{"n":354,"kind":"place","name":"Ward gate west court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate west court. Matt keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west court. arc left open. 4 steps. The plywood stays for the start."}
