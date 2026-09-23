@@ -125,3 +125,6 @@
 {"n":125,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof north yard. Nia keeps the badge door for the start. 7 steps, arc on the left lane, open."}
 {"n":126,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north yard. arc left open. 8 steps. The badge door stays for the start."}
 {"n":127,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Clinic roof. Nobody past the north yard. We start in 2 steps. Arc on the left lane, open."}
+{"n":128,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof north yard. Ivo keeps the badge door for the start. 3 steps, arc on the left lane, open."}
+{"n":129,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north yard. arc left open. 4 steps. The badge door stays for the start."}
+{"n":130,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Clinic roof. Nobody past the north yard. We start in 5 steps. Arc on the left lane, open."}
