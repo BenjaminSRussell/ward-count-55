@@ -310,3 +310,6 @@
 {"n":310,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Switchyard. Nobody past the north yard. We start in 3 steps. Arc on the left lane, open."}
 {"n":311,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north yard. Bess keeps the radio coil for the start. 4 steps, arc on the left lane, open."}
 {"n":312,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north yard. arc left open. 5 steps. The radio coil stays for the start."}
+{"n":313,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Drydock. Nobody past the north yard. We start in 6 steps. Arc on the left lane, open."}
+{"n":314,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock north yard. Matt keeps the radio coil for the start. 7 steps, arc on the left lane, open."}
+{"n":315,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north yard. arc left open. 8 steps. The radio coil stays for the start."}
