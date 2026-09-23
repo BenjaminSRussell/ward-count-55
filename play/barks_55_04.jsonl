@@ -946,3 +946,6 @@
 {"n":946,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof north yard. Matt keeps the crate for the start. 4 steps, arc on the left lane, open."}
 {"n":947,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north yard. arc left open. 5 steps. The crate stays for the start."}
 {"n":948,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Clinic roof. Nobody past the north yard. We start in 6 steps. Arc on the left lane, open."}
+{"n":949,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof north yard. Nia keeps the crate for the start. 7 steps, arc on the left lane, open."}
+{"n":950,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north yard. arc left open. 8 steps. The crate stays for the start."}
+{"n":951,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Clinic roof. Nobody past the north yard. We start in 2 steps. Arc on the left lane, open."}
