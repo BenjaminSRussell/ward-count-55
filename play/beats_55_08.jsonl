@@ -338,3 +338,6 @@
 {"n":338,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Drydock. Nobody past the south yard. We start in 8 steps. Arc on the left lane, open."}
 {"n":339,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south yard. Bess keeps the radio coil for the start. 2 steps, arc on the left lane, open."}
 {"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south yard. arc left open. 3 steps. The radio coil stays for the start."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at High line. Nobody past the south yard. We start in 4 steps. Arc on the left lane, open."}
+{"n":342,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south yard. Matt keeps the radio coil for the start. 5 steps, arc on the left lane, open."}
+{"n":343,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south yard. arc left open. 6 steps. The radio coil stays for the start."}
