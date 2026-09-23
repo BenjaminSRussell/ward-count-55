@@ -28,3 +28,6 @@
 {"n":28,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Mast yard. Nobody past the south slip. We start in 7 steps. Arc on the left lane, open."}
 {"n":29,"kind":"place","name":"Mast yard south slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south slip. Nia keeps the badge door for the start. 8 steps, arc on the left lane, open."}
 {"n":30,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south slip. arc left open. 2 steps. The badge door stays for the start."}
+{"n":31,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Mast yard. Nobody past the south slip. We start in 3 steps. Arc on the left lane, open."}
+{"n":32,"kind":"place","name":"Mast yard south slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south slip. Ivo keeps the badge door for the start. 4 steps, arc on the left lane, open."}
+{"n":33,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south slip. arc left open. 5 steps. The badge door stays for the start."}
