@@ -728,3 +728,6 @@
 {"n":728,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot west court. Ivo keeps the awning for the start. 5 steps, arc on the left lane, open."}
 {"n":729,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. arc left open. 6 steps. The awning stays for the start."}
 {"n":730,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at the Lot. Nobody past the west court. We start in 7 steps. Arc on the left lane, open."}
+{"n":731,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot west court. Bess keeps the awning for the start. 8 steps, arc on the left lane, open."}
+{"n":732,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. arc left open. 2 steps. The awning stays for the start."}
+{"n":733,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Stockyard fence. Nobody past the west court. We start in 3 steps. Arc on the left lane, open."}
