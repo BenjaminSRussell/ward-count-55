@@ -323,3 +323,6 @@
 {"n":323,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Kessler alley. Nobody past the east yard. We start in 6 steps. Arc on the left lane, open."}
 {"n":324,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley east yard. Ivo keeps the plywood for the start. 7 steps, arc on the left lane, open."}
 {"n":325,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east yard. arc left open. 8 steps. The plywood stays for the start."}
+{"n":326,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Kessler alley. Nobody past the east yard. We start in 2 steps. Arc on the left lane, open."}
+{"n":327,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley east yard. Bess keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":328,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east yard. arc left open. 4 steps. The plywood stays for the start."}
